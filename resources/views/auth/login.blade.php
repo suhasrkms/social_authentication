@@ -108,12 +108,7 @@
       // Initialize Firebase
       var config = {
          // This is the variable you got from Firebase's Firebase SDK snippet. It includes values for apiKey, authDomain, projectId, etc.
-         apiKey: "AIzaSyBxBHQ0IXVmPRHv-AZcVQMtWsj5q9tpfbk",
-         authDomain: "larafire-5f03c.firebaseapp.com",
-         projectId: "larafire-5f03c",
-         storageBucket: "larafire-5f03c.appspot.com",
-         messagingSenderId: "167982395765",
-         appId: "1:167982395765:web:aad2a6f7df5d579009233c"
+         
       };
       firebase.initializeApp(config);
       var facebookProvider = new firebase.auth.FacebookAuthProvider();
