@@ -2,7 +2,7 @@
 
 # About
 
-Have an idea to develop a **Laravel** project using firebase database, this repository helps in using firebase as authentication for laravel project.
+Have an idea to develop a **Laravel** project using firebase database, this repository helps in using firebase as authentication for laravel project using email,google and facebook.
 
 ## [Tutorial for connecting this project to firebase.](https://www.youtube.com/watch?v=75aEgBYaexg&t=22s)
 
@@ -35,6 +35,6 @@ Initialize Firebase Config [refer video](https://www.youtube.com/watch?v=75aEgBY
 ## Thanks for downloading this project!
 
 - Project Name: Laravel With Firebase Auth
-- Project URL: https://github.com/suhasrkms/laravel-with-firebase-auth
+- Project URL: https://github.com/suhasrkms/social_authentication
 - Author: Suhas R
 - Author URL: https://github.com/suhasrkms 
